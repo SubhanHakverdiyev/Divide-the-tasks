@@ -1,5 +1,5 @@
 # Logging Library-
-Android app for dividing tasks between rommates.
+Android app using KOTLIN for dividing tasks between rommates.
 
 
 ## Problem Definition
